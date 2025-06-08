@@ -2,3 +2,4 @@ openai
 python_dotenv
 streamlit
 supabase
+notion-client
