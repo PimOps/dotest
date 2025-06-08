@@ -269,8 +269,7 @@ st.info(
 
 st.success(
     """
-    Read [the blog post on Streamlit's roadmap](https://blog.streamlit.io/the-next-frontier-for-streamlit/)
-    to understand our broader vision.
+    Nobody knows about this app yet, so you're either lucky by finding it, or.... you must be Jeongin :)
     """,
     icon="🗺",
 )
